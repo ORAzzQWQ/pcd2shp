@@ -4,14 +4,22 @@ Find the point cloud concave hull and write in shapefile
 * red line : concave hull (`threshold = 0.3`)
 * green line : convex hull
 
-![image](https://hackmd.io/_uploads/rJwjImZYp.png =40%x)![image](https://hackmd.io/_uploads/ryW28mZYT.png =60%x)
+![image](https://github.com/ORAzzQWQ/pcd2shp/blob/main/img/ref_img.png)
 
 * shapefile
-![image](https://hackmd.io/_uploads/H1ihHVZYT.png)
+
+![image](https://github.com/ORAzzQWQ/pcd2shp/blob/main/img/shp_img.png)
 
 ## result
-* 沙崙自駕車試驗場域
 
+* 沙崙自駕車試驗場域
+* Line
+![image](https://github.com/ORAzzQWQ/pcd2shp/blob/main/img/line.png)
+
+* Arrow
+![image](https://github.com/ORAzzQWQ/pcd2shp/blob/main/img/arrow.png)
+
+* ALL
 ![image](https://github.com/ORAzzQWQ/pcd2shp/blob/main/img/all.png)
 
 ## reference
