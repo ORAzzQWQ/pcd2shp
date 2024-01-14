@@ -11,7 +11,7 @@ Find the point cloud concave hull and write in shapefile
 
 ## result
 沙崙自駕車試驗場域
-![image](https://hackmd.io/_uploads/HJJ4UNWtp.png =60%x)
+![image](https://github.com/ORAzzQWQ/pcd2shp/blob/main/img/all.png)
 
 ## reference
 * https://github.com/cubao/concave_hull
